@@ -21,7 +21,10 @@ It reads your Apple Health clinical records and turns them into a clear, private
 Cliniboard does **not** collect, transmit, or store any of your health data.  
 Everything stays on your device. No accounts. No servers. No tracking.
 
-[Privacy Policy](https://github.com/wamra/cliniboard-support/blob/main/PRIVACY.md)
+## Legal
+
+- [Privacy Policy](PRIVACY.md)
+- [Terms of Use](TERMS.md)
 
 ## Download
 
