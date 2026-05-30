@@ -1,7 +1,7 @@
 # Terms of Use
 
-**Effective date:** May 28, 2026  
-**Last updated:** May 28, 2026
+**Effective date:** May 30, 2026  
+**Last updated:** May 30, 2026
 
 Please read these Terms of Use ("Terms") carefully before using the Cliniboard application ("the App"). By downloading, installing, or using the App, you agree to be bound by these Terms.
 
@@ -9,7 +9,7 @@ Please read these Terms of Use ("Terms") carefully before using the Cliniboard a
 
 ## 1. License
 
-Subject to these Terms, Wesam Abdallah ("Developer") grants you a limited, non-exclusive, non-transferable, revocable license to use the App on Apple-branded devices that you own or control, solely for your personal, non-commercial use, in accordance with the [Apple Media Services Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/).
+Subject to these Terms, the developer of Cliniboard ("the Developer") grants you a limited, non-exclusive, non-transferable, revocable license to use the App on Apple-branded devices that you own or control, solely for your personal, non-commercial use, in accordance with the [Apple Media Services Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/).
 
 ---
 
@@ -39,12 +39,15 @@ You acknowledge and agree that:
 
 ## 4. Indemnification
 
-You agree to defend, indemnify, and hold harmless the Developer, and his affiliates, licensors, and service providers, from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to:
+To the fullest extent permitted by applicable law, you agree to defend, indemnify, and hold harmless the Developer and the Developer's affiliates, licensors, and service providers from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to:
 
 - Your use of the App or any information displayed within it
 - Your violation of these Terms
 - Any health-related decision you make based on information displayed in the App
-- Your violation of any third-party rights, including Apple HealthKit terms or your healthcare provider's terms
+- Any health or personal data of another person that you export, share, or transmit using the App
+- Your violation of any third-party rights, including Apple's terms or your healthcare provider's terms
+
+This indemnity does not apply to the extent a claim arises from the Developer's own gross negligence or willful misconduct, or to any liability that applicable law does not permit to be waived or limited.
 
 ---
 
@@ -58,6 +61,8 @@ The Developer does not warrant that:
 - The health data displayed will be accurate, complete, or current
 - Any errors in the App will be corrected
 
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU. IN THAT CASE, SUCH WARRANTIES ARE LIMITED TO THE GREATEST EXTENT AND SHORTEST DURATION PERMITTED BY APPLICABLE LAW.
+
 ---
 
 ## 6. Limitation of Liability
@@ -68,7 +73,7 @@ TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE DEVELOP
 - Any reliance on information displayed in the App
 - Any health decision made based on App content
 
-IN JURISDICTIONS THAT DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR LIMITATION OF LIABILITY, THE DEVELOPER'S LIABILITY IS LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE DEVELOPER'S TOTAL CUMULATIVE LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE APP OR THESE TERMS SHALL NOT EXCEED THE GREATER OF (A) THE TOTAL AMOUNT YOU PAID THE DEVELOPER FOR THE APP IN THE TWELVE MONTHS BEFORE THE CLAIM (WHICH, FOR A FREE APP, IS ZERO DOLLARS ($0.00)), OR (B) ONE U.S. DOLLAR ($1.00). THIS LIMITATION APPLIES REGARDLESS OF THE THEORY OF LIABILITY AND EVEN IF THE DEVELOPER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTHING IN THESE TERMS LIMITS LIABILITY THAT APPLICABLE LAW DOES NOT PERMIT TO BE LIMITED.
 
 ---
 
@@ -90,19 +95,49 @@ The Developer may terminate or suspend your access to the App at any time, witho
 
 ---
 
-## 10. Governing Law
+## 10. Governing Law and Venue
 
-These Terms are governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law provisions.
+These Terms are governed by the laws of the State of New York, without regard to its conflict-of-law provisions, and by applicable U.S. federal law. Subject to the arbitration provision below, you and the Developer agree that the exclusive venue for any dispute not subject to arbitration shall be the state or federal courts located in New York County, New York, and you consent to personal jurisdiction there.
 
 ---
 
-## 11. Changes to These Terms
+## 11. Dispute Resolution and Class-Action Waiver
+
+PLEASE READ THIS SECTION CAREFULLY — IT AFFECTS YOUR LEGAL RIGHTS.
+
+Any dispute arising out of or relating to the App or these Terms shall be resolved by binding individual arbitration administered by the American Arbitration Association under its Consumer Arbitration Rules, rather than in court, except that either party may bring an individual claim in small-claims court. The seat of arbitration is New York, New York; an arbitration may be conducted by video or telephone where the rules allow.
+
+YOU AND THE DEVELOPER AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN AN INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS, COLLECTIVE, OR REPRESENTATIVE PROCEEDING. The arbitrator may not consolidate more than one person's claims. If this class-action waiver is found unenforceable, the entirety of this Section 11 shall be null and void, but the rest of these Terms shall remain in effect.
+
+You may opt out of this arbitration agreement by sending notice within 30 days of first accepting these Terms via the support contact below.
+
+---
+
+## 12. Eligibility
+
+You represent that you are at least 13 years old (or at least 16 if you reside in the European Economic Area or the United Kingdom) and that you are able to form a binding contract. The App is not directed to children under 13, and the Developer does not knowingly collect data from them.
+
+---
+
+## 13. Severability and Survival
+
+If any provision of these Terms is held invalid or unenforceable, that provision shall be enforced to the maximum extent permissible and the remaining provisions shall remain in full force and effect. A court or arbitrator may modify any overbroad provision (including the disclaimers, limitation of liability, and indemnification) to the minimum extent necessary to make it enforceable, rather than striking it entirely. Sections 2 through 6, 8, and 11 survive termination.
+
+---
+
+## 14. Apple and Third-Party Terms
+
+These Terms are between you and the Developer only, not with Apple. Apple has no obligation to provide support or maintenance for the App and is not responsible for any product warranties, claims, or legal claims regarding the App (including product-liability, consumer-protection, or intellectual-property claims). Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you. Your use of the App must comply with the Apple Media Services Terms and Apple's usage rules.
+
+---
+
+## 15. Changes to These Terms
 
 We may update these Terms from time to time. We will notify you of any material changes by updating the effective date at the top of this page and, where appropriate, through the App's release notes. Your continued use of the App after any changes constitutes your acceptance of the new Terms.
 
 ---
 
-## 12. Contact
+## 16. Contact
 
 If you have questions about these Terms:
 
@@ -110,4 +145,4 @@ If you have questions about these Terms:
 
 ---
 
-*These Terms of Use were last updated on May 28, 2026.*
+*These Terms of Use were last updated on May 30, 2026.*
